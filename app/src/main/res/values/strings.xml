@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    //inisialisasi list data
+    <string-array name="list">
+        <item>test 1</item>
+        <item>test 2</item>
+        <item>test 3</item>
+        <item>test 4</item>
+        <item>test 5</item>
+        <item>test 6</item>
+        <item>test 7</item>
+        <item>test 8</item>
+        <item>test 9</item>
+    </string-array>
+</resources>
