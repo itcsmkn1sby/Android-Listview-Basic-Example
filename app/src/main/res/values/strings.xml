@@ -3,14 +3,24 @@
 
     //inisialisasi list data
     <string-array name="list">
-        <item>test 1</item>
-        <item>test 2</item>
-        <item>test 3</item>
-        <item>test 4</item>
-        <item>test 5</item>
-        <item>test 6</item>
-        <item>test 7</item>
-        <item>test 8</item>
-        <item>test 9</item>
+        <item>bakso</item>
+        <item>sate</item>
+        <item>mie</item>
+        <item>hamburger</item>
+        <item>hotdog</item>
+        <item>soto</item>
+        <item>ayam goreng</item>
+        <item>nasi goreng</item>
+        <item>mie goreng</item>
+        <item>mie goreng</item>
+        <item>mie goreng</item>
+        <item>mie goreng</item>
+        <item>mie goreng</item>
+        <item>mie goreng</item>
+        <item>mie goreng</item>
+        <item>mie goreng</item>
+        <item>mie goreng</item>
+        <item>mie goreng</item>
+        <item>mie goreng</item>
     </string-array>
 </resources>
